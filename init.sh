@@ -50,8 +50,8 @@ case $ideChoice in
     ;;
 esac
 
-apt-get install -y openjdk-13-jdk nodejs mosquitto mongodb-clients mongodb
+apt-get install -y openjdk-13-jdk nodejs mosquitto mongodb-clients mongodb npm
 
-snap install node-red
+npm install -g --unsafe-perm node-red
 
 echo "Install is complete."
