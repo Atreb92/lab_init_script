@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #
-# This script has been written under ubuntu 19.10 to download and install
-#
+# This script has been written under ubuntu 19.10 to download and install the needed
+# software for the Innovatvive Cmmunication Systems Laboratory
 #
 
 ###############################################################################
